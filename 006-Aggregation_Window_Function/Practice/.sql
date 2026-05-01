@@ -1,4 +1,4 @@
-/* Aggregartion tasks 
+/* Aggregation tasks 
 Question 1: Find the total sales of all orders */
 
 select sum(sales) as total_sales
